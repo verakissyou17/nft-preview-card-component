@@ -14,8 +14,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/nft-preview-card-component-challenge-mFkfLZhtUg)
+- Live Site URL: (https://verakissyou17.github.io/nft-preview-card-component/)
 
 ## My process
 
@@ -28,5 +28,5 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Author
 
-- Website - [Add your name here](https://www.)
+- Website - [Add your name here](https://github.com/verakissyou17)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/verakissyou17)
